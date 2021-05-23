@@ -1,6 +1,5 @@
 import torch
 import torch.optim as optim
-import copy
 
 class Attacker:
     def __init__(self, model, data, label, criterion, device="cuda", logging=True):
