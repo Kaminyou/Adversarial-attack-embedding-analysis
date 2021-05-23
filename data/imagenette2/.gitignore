@@ -1,0 +1,4 @@
+train/
+val/
+val_small/
+*.csv
